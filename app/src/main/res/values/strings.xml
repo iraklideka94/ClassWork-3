@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ClassWork-3</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="language_english_us">Language English(US)</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="help_center">Help Center</string>
+    <string name="invite_friends">Invite Friends</string>
+    <string name="log_out">Log Out</string>
+    <string name="security">Security</string>
+    <string name="payment">Payment</string>
+    <string name="notification">Notification</string>
+    <string name="address">Address</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="_111_11_344_556_433">+111 11 344 556 433</string>
+    <string name="andrew_ainsley">Andrew Ainsley</string>
+    <string name="profile">Profile</string>
+</resources>
